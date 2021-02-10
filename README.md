@@ -2,7 +2,7 @@
 
 Activiy should be done in groups, size 2-4. 
 
-## Activity 1 - Class grader
+## Activity 1 - Rank Grades
 
 ### Objective 
 
